@@ -1,11 +1,4 @@
-#include <iostream>
-using namespace std;
-
-int main(){
 User.Init->Wallace_Hesslemeister();
-return 0;
-}
-
 OUTPUT:
 - 👋 Hi, I’m @WallaceHesselmeister.
 - 👀 I’m A C++/HTML Developer with some experience coding 3DS Games.
